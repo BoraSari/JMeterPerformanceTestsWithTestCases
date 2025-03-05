@@ -1,4 +1,4 @@
-# JMeterPerformanceTestsWithTTestCases
+# JMeterPerformanceTestsWithTestCases
 
 Project Completion Report
 Project Name: JMeter Performance Test Project Project Objective: To conduct various load and stress tests on the Restful Booker API, verifying whether the system performs and maintains stability under specified thresholds.
