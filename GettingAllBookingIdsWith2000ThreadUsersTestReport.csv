@@ -1,3 +1,0 @@
-Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
-Get All Booking Ids,2000,391,266,471,1071,3180,150,10244,"0,050%","2,2229","79,79","0,37"
-Total,2000,391,266,471,1071,3180,150,10244,"0,050%","2,2229","79,79","0,37"
