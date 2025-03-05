@@ -1,3 +1,0 @@
-Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
-Update A Booking,1000,197,194,226,241,282,128,1221,"0,000%","4,16788","3,79","2,08"
-Total,1000,197,194,226,241,282,128,1221,"0,000%","4,16788","3,79","2,08"
