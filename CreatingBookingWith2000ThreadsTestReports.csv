@@ -1,3 +1,0 @@
-Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
-Create A New Booking,2000,225,196,247,286,643,144,6164,"0,000%","2,22284","2,08","1,03"
-Total,2000,225,196,247,286,643,144,6164,"0,000%","2,22284","2,08","1,03"
